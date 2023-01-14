@@ -1,5 +1,5 @@
 [Unit]
-Description=Python Proxy Mod By Etilssh
+Description=Python Proxy Mod By EtilSsh
 Documentation=https://wa.me/6287721815317
 After=network.target nss-lookup.target
 
